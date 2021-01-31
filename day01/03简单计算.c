@@ -3,7 +3,7 @@
 int main(void)
 
 {
-	//数据类型
+	//鏁版嵁绫诲瀷
 	int a = 10;
 	int b = 20;
 	
@@ -12,3 +12,5 @@ int main(void)
 	printf("%d\n", c);
 	return 0;
 }
+
+//娴嬭瘯娉ㄩ噴
