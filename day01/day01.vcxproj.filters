@@ -18,5 +18,8 @@
     <ClCompile Include="02system.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03简单计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
