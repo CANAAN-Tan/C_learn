@@ -18,5 +18,8 @@
     <ClCompile Include="02-01买菜.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02-02圆的面积和周长.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
