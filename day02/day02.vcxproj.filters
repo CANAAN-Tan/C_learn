@@ -21,5 +21,13 @@
     <ClCompile Include="02-02圆的面积和周长.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="03整型变量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="day02笔记.txt">
+      <Filter>源文件</Filter>
+    </Text>
   </ItemGroup>
 </Project>

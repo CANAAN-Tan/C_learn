@@ -142,7 +142,13 @@
     <ClCompile Include="02-01买菜.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="02-02圆的面积和周长.c" />
+    <ClCompile Include="02-02圆的面积和周长.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="03整型变量.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="day02笔记.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
