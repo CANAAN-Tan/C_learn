@@ -6,3 +6,7 @@
 变量在程序运行过程中，其值可以发生改变的量称为变量。
 定义方式：
 数据格式 变量名 = 值
+
+scanf安全问题解决办法：
+1、#define _CRT_SECURE_NO_WARNINGS
+2、//#pragma warning(disable:4996)
